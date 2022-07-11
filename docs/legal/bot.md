@@ -7,7 +7,7 @@ description: The Terms of Service and Privacy Policy of the Discord Bot.
 [Privacy Policy]: https://discord.com/privacy
 [Community Guidelines]: https://discord.com/guidelines
 [discord]: https://discord.com
-[support]: https://purrbot.site/discord
+[support]: https://discord.gg/Md6xfTgA
 [language]: https://discord.com/developers/docs/dispatch/field-values#predefined-field-values-accepted-locales
 
 # Bot
@@ -38,7 +38,7 @@ We reserve the right to update these terms at our own discretion, giving you a 1
 You may opt out by Removing the bot from any Server you have the rights for.
 
 ### Contact
-People may get in contact through e-mail at support@purrbot.site, or through the official [Support Discord][support] of the Bot.  
+People may get in contact through e-mail hrishikeshtiwari5000@gmail.com, or through the official [Support Discord][support] of the Bot.  
 Other ways of support may be provided but aren't guaranteed.
 
 ----
